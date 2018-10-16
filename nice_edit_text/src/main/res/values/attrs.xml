@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NiceEditText">
+        <attr name="android:inputType" />
+        <attr name="android:padding" />
+        <attr name="android:paddingLeft" />
+        <attr name="android:paddingRight" />
+        <attr name="android:paddingTop" />
+        <attr name="android:paddingBottom" />
+        <attr name="edtSetRTL" format="boolean" />
+        <attr name="edtSetBorderView" format="boolean" />
+        <attr name="edtSetClearIconVisible" format="boolean" />
+        <attr name="edtHideShowPasswordIconTint" format="color" />
+        <attr name="edtSetBackgroundColor" format="color" />
+        <attr name="edtSetBorderColor" format="color" />
+        <attr name="edtClearIconTint" format="color" />
+        <attr name="edtSetStrokeWidth" format="dimension" />
+        <attr name="edtSetCornerRadius" format="dimension" />
+        <attr name="edtSetFont" format="string" />
+    </declare-styleable>
+
+</resources>
